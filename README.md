@@ -1,5 +1,36 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Project Deployed in Vercel: [Next-Auth Github App]()
+
+Nextjs 13 Project using:
+- Src and App Folder
+- Import Alias (@)
+- ESLint
+- .env.local and .env
+- Google Fonts and TailwindCSS
+- Metadata
+- Link and Image Components
+- Layout and Page Structure
+- Client Routes
+- Dynamic Routes
+- API Routes using Route Handlers API
+- NextAuth Github Provider
+- Client and Server Components ('use client' and 'use server')
+- Middlewares for Protected Routes
+- Providers for mantain state in the app of the session
+- Provider Using Server Session from props
+- Use Session in React Server Components (getServerSession) in pages
+- Use useSession Hook in Client Components for create buttons and use signIn and signOut functions - Session from NextAuth Context
+- Protected Routes Pages using Server Session (getServerSession) or Middleware
+- Protected API Routes using Route Handlers API
+- Auth in API Routes
+- Auth in Server Actions
+- Proxied Auth in RSC's
+- usePathater Hook for get the path of the current page and add styles using TailwindCSS
+
+### Links Projects
+- [Jack Herrington - Next-Auth on App Router - Solid Auth, Super Fast](https://www.youtube.com/watch?v=md65iBX5Gxg)
+
 ## Getting Started
 
 First, run the development server:

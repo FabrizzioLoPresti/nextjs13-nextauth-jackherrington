@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Project Deployed in Vercel: [Next-Auth Github App]()
+Project Deployed in Vercel: [Next-Auth Github App](https://nextjs13-nextauth-jackherrington.vercel.app/)
 
 Nextjs 13 Project using:
 - Src and App Folder

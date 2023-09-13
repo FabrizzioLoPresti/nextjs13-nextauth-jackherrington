@@ -4,7 +4,7 @@ import { getServerSession } from "next-auth/next";
 const fetchData = async () => {
   const res = await fetch(`${process.env.BACKEND_URL}/api/whoAmI`, {
     method: "GET",
-    headers: headers()
+    // headers: headers()
   });
   const data = await res.json();
   return data

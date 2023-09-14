@@ -25,7 +25,7 @@ Nextjs 13 Project using:
 - Protected API Routes using Route Handlers API
 - Auth in API Routes
 - Auth in Server Actions
-- Proxied Auth in RSC's
+- Proxied Auth in RSC's using headers() from Next.js
 - usePathater Hook for get the path of the current page and add styles using TailwindCSS
 
 ### Links Projects
